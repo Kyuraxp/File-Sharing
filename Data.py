@@ -23,7 +23,7 @@ class Data:
  ├ /speedtest - Untuk Mengetes kecepatan server bot
  └ /broadcast - Untuk mengirim pesan broadcast ke pengguna bot
 
-👨‍💻 Develoved by </b><a href='https://t.me/StoryBakugo/101'>@StoryBakugo</a>
+👨‍💻 Develoved by </b><a href='https://t.me/kyuraxstore/5'>@Kyura-Ex</a>
 """
 
     close = [
@@ -51,7 +51,7 @@ class Data:
 
  • Creator: @{}
  • Framework: <a href='https://docs.pyrogram.org'>Pyrogram</a>
- • Source Code: <a href='https://github.com/Kyuraxp/File-Sharing-B'>File-Sharing-B v4</a>
+ • Source Code: <a href='https://t.me/kyuraxstore/5'>Click Here</a>
 
-👨‍💻 Develoved by </b><a href='https://t.me/StoryBakugo/101'>@StoryBakugo</a>
+👨‍💻 Develoved by </b><a href='https://t.me/xflskyura/101'>@Kyura-Ex</a>
 """
