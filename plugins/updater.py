@@ -14,7 +14,7 @@ from pyrogram.types import Message
 
 from config import ADMINS, LOGGER
 
-UPSTREAM_REPO = "https://github.com/Kyuraxp/File-Sharing-B"
+UPSTREAM_REPO = "https://github.com/Kyuraxp/File-Sharing-Kyura"
 
 
 def gen_chlog(repo, diff):
@@ -76,10 +76,10 @@ async def update_bot(_, message: Message):
 @Bot.on_message(filters.command("restart") & filters.user(ADMINS))
 async def restart_bot(_, message: Message):
     try:
-        msg = await message.reply_text("`Restarting bot...`")
+        msg = await message.reply_text("`Memulai Ulang Bot...`")
         LOGGER(__name__).info("BOT SERVER RESTARTED !!")
     except BaseException as err:
         LOGGER(__name__).info(f"{err}")
         return
-    await msg.edit_text("✅ Bot has restarted !\n\n")
+    await msg.edit_text("✅ Bot Berhasil Di Mulai Ulang !\n\n")
     os.system(f"kill -9 {os.getpid()} && bash start")
