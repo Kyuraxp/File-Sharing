@@ -1,6 +1,6 @@
 # (©)Codexbotz
-# Recode by @mrismanaziz
-# t.me/SharingUserbot & t.me/Lunatic0de
+# Recode by @xflskyura
+# t.me/KyuraxStore & t.me/KyuraSupportGroup
 
 import logging
 import os
