@@ -30,7 +30,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=S3l1cmF4cC9GaWxlLVNoYXJpbmctQiBtYXN0ZXI)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kyuraxp/File-Sharing)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
