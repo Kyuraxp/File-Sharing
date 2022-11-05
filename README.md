@@ -1,9 +1,8 @@
-# File-Sharing-Kyura
-
 <p align="center">
   <img src="https://telegra.ph/file/fc022ef493d19c922c218.jpg">
 <h2 align="center">
 
+# File-Sharing-Kyura
 
 Bot Telegram untuk menyimpan Posting atau File yang dapat Diakses melalui Link Khusus.
 Saya Kira Ini Akan Bermanfaat Bagi Banyak Orang.
@@ -31,7 +30,7 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ## 🛡 Installation
 ### Deploy on Heroku Bot
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Kyuraxp/File-Sharing-Kyura)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://telegram.dog/XTZ_HerokuBot?start=S3l1cmF4cC9GaWxlLVNoYXJpbmctQiBtYXN0ZXI)</br>
 
 **Tonton Video Tutorial Ini di YouTube untuk Bantuan memasang di Heroku**<br>
 <a href="https://youtu.be/O2tieQgzYZg">
@@ -61,3 +60,40 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 
 ### Fillings
 #### START_MESSAGE | FORCE_SUB_MESSAGE
+
+* `{first}` - User first name
+* `{last}` - User last name
+* `{id}` - User ID
+* `{mention}` - Mention the user
+* `{username}` - Username
+
+#### CUSTOM_CAPTION
+
+* `{filename}` - file name of the Document
+* `{previouscaption}` - Original Caption
+
+</details>
+
+## 🏷 Support   
+- Follow Channel [@StoryBakugo](https://t.me/StoryBakugo) untuk info Update bot 
+- Gabung Group [@KyuraSupport](https://t.me/KyuraSupportGroup) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-B.
+
+## 👨🏻‍💻 Credits
+
+-  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
+-  [B](https://github.com/Kyuraxp) for [File-Sharing-B](https://github.com/Kyuraxp/File-Sharing-B)
+-  [Risman](https://github.com/mrismanziz) for [File-Sharing-Man](https://github.com://mrismanaziz/File-Sharing-Man)
+-  Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
+
+## 📑 License
+[![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
+
+[FILE-SHARING-BOT](https://github.com/Kyuraxp/File-Sharing-B/) is Free Software: You can use, study share and improve it at your
+will. Specifically you can redistribute and/or modify it under the terms of the
+[GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
+published by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version. 
+
+##
+
+   **Berikan Bintang Repo ini jika Anda menyukainya ⭐⭐⭐⭐⭐**
