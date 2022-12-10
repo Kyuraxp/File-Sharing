@@ -75,20 +75,20 @@ Gunakan bot ini dengan risiko Anda sendiri, dan gunakan bot ini dengan bijak.
 </details>
 
 ## 🏷 Support   
-- Follow Channel [@StoryBakugo](https://t.me/StoryBakugo) untuk info Update bot 
-- Gabung Group [@KyuraSupport](https://t.me/KyuraSupportGroup) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-B.
+- Follow Channel [@KyuraStore](https://t.me/KyuraxStore) untuk info Update bot 
+- Gabung Group [@KyuraSelf](https://t.me/KyuraSelf) untuk diskusi, pelaporan bug, dan bantuan tentang File-Sharing-Kyura.
 
 ## 👨🏻‍💻 Credits
 
 -  [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
--  [B](https://github.com/Kyuraxp) for [File-Sharing-B](https://github.com/Kyuraxp/File-Sharing-B)
+-  [B](https://github.com/Kyuraxp) for [File-Sharing-B](https://github.com/Kyuraxp/File-Sharing-Kyura)
 -  [Risman](https://github.com/mrismanziz) for [File-Sharing-Man](https://github.com://mrismanaziz/File-Sharing-Man)
 -  Based on [CodeXBotz](https://github.com/CodeXBotz) Repo [File-Sharing-Bot](https://github.com/CodeXBotz/File-Sharing-Bot)
 
 ## 📑 License
 [![GNU GPLv3 Image](https://www.gnu.org/graphics/gplv3-127x51.png)](http://www.gnu.org/licenses/gpl-3.0.en.html)  
 
-[FILE-SHARING-BOT](https://github.com/Kyuraxp/File-Sharing-B/) is Free Software: You can use, study share and improve it at your
+[FILE-SHARING-BOT](https://github.com/Kyuraxp/File-Sharing-Kyura/) is Free Software: You can use, study share and improve it at your
 will. Specifically you can redistribute and/or modify it under the terms of the
 [GNU General Public License](https://www.gnu.org/licenses/gpl.html) as
 published by the Free Software Foundation, either version 3 of the License, or
